@@ -1,0 +1,25 @@
+h1{
+   text-align: center;
+}
+
+p {
+    text-align: center;
+    color: gray;
+}
+.replique{
+    color: black;
+    font-weight: bold;
+}
+
+.par{
+    color: black;
+    font-weight: bold;
+}
+
+.notSelect {
+    background-color: white;
+}
+
+.select{
+    background-color: yellow;
+}
